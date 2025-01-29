@@ -1,4 +1,4 @@
-here, I have created Adventure webpage using React.
+Here, I have created Adventure webpage using React.
 
 In the project directory, you can run:
 
